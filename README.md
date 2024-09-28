@@ -1,1 +1,6 @@
 # Context-Based-Sentiment-Analysis
+
+As e-commerce is growing rapidly, many sources are available for collecting public opinions about businesses, products, services, brands, and events. It can be difficult for customers to distinguish between genuine reviews and fake or biased reviews which leads to poor purchase or service. The aim of this work is context-based sentiment analysis to develop a natural language processing model that can analyze customer reviews and feedback to identify the sentiment expressed towards specific context or features of a product or service. This work involves several steps including Dataset preprocessing, Feature extraction, Training, context extraction, sentiment classification, and aggregation. The model will be trained with the help of sequential model using a dataset of Restaurant reviews and evaluated using  performance metrics such as accuracy (93.44%),. The results of this project will enable users to find services according to their requirements and it also helps companies to gain valuable insights into the strengths and weaknesses of their products or services, identify areas for improvement, and monitor customer sentiment over time.
+
+
+![image](https://github.com/user-attachments/assets/e7ca0c10-84b5-476b-96bd-32c3a8c25fd3)
